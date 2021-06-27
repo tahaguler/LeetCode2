@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93c2f8bb_002D078f_002D439e_002D9595_002D7fe2a46be802/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.TwoSumSolution_HashTable&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.PercentOperatorTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.LengthResultTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.CanIEmptyAnArray&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.LongestSubStreing&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::34A2349D-8E02-4A8C-BF99-6192156C7501::net5.0::LeetCode.UnitTest1.CanIAddSameCharIntoHashSet&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
