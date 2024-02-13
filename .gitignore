@@ -14,3 +14,7 @@
 /obj
 /.idea
 /bin
+/.vs
+/LeetCode/bin/Debug
+/LeetCode/obj
+/LeetCode.sln.DotSettings.user
